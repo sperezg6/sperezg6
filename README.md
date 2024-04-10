@@ -1,5 +1,8 @@
 # 💫 About Me:
-I'm currently working at mattilda as a tech analyst<br>I have a profound interest un IA and Machine Learning<br>Currently working on my thesis, to create a RNN for music generation
+-I'm currently working at mattilda as a tech analyst<br>
+-I have a profound interest un IA and Machine Learning<br>
+-Currently working on my thesis, to create a RNN for Music Generation
+-Love to automate tasks usign python
 
 
 ## 🌐 Socials:
