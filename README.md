@@ -1,9 +1,9 @@
 # 💫 About Me:
 - 22 year old Computer Engineer student <br>
--I'm currently working at mattilda as a tech analyst<br>
--I have a profound interest un IA and Machine Learning<br>
--Currently working on my thesis, to create a RNN for Music Generation<br>
--Love to automate tasks usign python
+- I'm currently working at mattilda as a tech analyst<br>
+- I have a profound interest un IA and Machine Learning<br>
+- Currently working on my thesis, to create a RNN for Music Generation<br>
+- Love to automate tasks usign python
 
 
 ## 🌐 Socials:
