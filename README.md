@@ -9,6 +9,7 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-p%C3%A9rez-61a0421a3/) 
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23F7931E.svg?&logo=huggingface&logoColor=white)](https://huggingface.co/SantiagoPG)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23323330.svg?&logo=Adobe%20Photoshop&logoColor=%231DB2F6)](https://spgphotoproject.net)
 
 
 
