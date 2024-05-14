@@ -11,7 +11,6 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23F7931E.svg?&logo=huggingface&logoColor=white)](https://huggingface.co/SantiagoPG)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23323330.svg?&logo=Adobe%20Photoshop&logoColor=%231DB2F6)](https://spgphotoproject.net)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?&logo=Spotify&logoColor=white)](https://open.spotify.com/artist/3RYRZXald4vlTtEZhLSFn1?si=vPm8bu9jTUapB1D75BF0hw)
-[![roadmap.sh](https://roadmap.sh/card/tall/6642488b8a432bf0b17d63d5?variant=dark)](https://roadmap.sh)
 
 
 
@@ -25,6 +24,12 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=sperezg6&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+
+
+## 💻 Developer Roadmap
+[![roadmap.sh](https://roadmap.sh/card/tall/6642488b8a432bf0b17d63d5?variant=dark)](https://roadmap.sh)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=sperezg6&icon=0&color=0)](https://visitcount.itsvg.in)
