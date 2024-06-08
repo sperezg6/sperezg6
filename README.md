@@ -11,6 +11,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23F7931E.svg?&logo=huggingface&logoColor=white)](https://huggingface.co/SantiagoPG)
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23323330.svg?&logo=Adobe%20Photoshop&logoColor=%231DB2F6)](https://spgphotoproject.net)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?&logo=Spotify&logoColor=white)](https://open.spotify.com/artist/3RYRZXald4vlTtEZhLSFn1?si=vPm8bu9jTUapB1D75BF0hw)
+[![OpenSauced](https://img.shields.io/badge/OpenSauced-%23FF7139.svg?&logo=OpenSauced&logoColor=white)](https://app.opensauced.pizza/u/sperezg6)
 
 
 
