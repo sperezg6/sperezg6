@@ -12,6 +12,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23323330.svg?&logo=Adobe%20Photoshop&logoColor=%231DB2F6)](https://spgphotoproject.net)
 [![Spotify](https://img.shields.io/badge/Spotify-%231DB954.svg?&logo=Spotify&logoColor=white)](https://open.spotify.com/artist/3RYRZXald4vlTtEZhLSFn1?si=vPm8bu9jTUapB1D75BF0hw)
 [![OpenSauced](https://img.shields.io/badge/OpenSauced-%23FF7139.svg?&logo=OpenSauced&logoColor=white)](https://app.opensauced.pizza/u/sperezg6)
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?&logo=LeetCode&logoColor=white)](https://leetcode.com/u/sperezg6​)
 
 
 
