@@ -4,6 +4,7 @@
 - I have a profound interest un IA, Machine Learning and also two of my biggest passions are photography and music <br>
 - Currently working on my thesis, to create a RNN for Music Generation<br>
 - Love to automate tasks usign python
+- Love photography
 
 
 ## 🌐 Socials:
