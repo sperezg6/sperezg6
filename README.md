@@ -6,6 +6,8 @@
 - Love to automate tasks usign python
 - Love photography
 
+![San Francisco](DSCF0363.jpeg)
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/santiago-p%C3%A9rez-61a0421a3/) 
